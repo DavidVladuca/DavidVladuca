@@ -27,14 +27,4 @@ I’m a Computer Science and Engineering student at **TU Delft**, passionate abo
 
 ---
 
-## 🤝 Let’s Connect!  
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-vladuca-ionut/)  
-- [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:davidvladuca@gmail.com)  
-
-
-
-
----
-
-✨ Always interested in contributing to impactful projects and expanding my expertise.  
+✨ Always interested in contributing to impactful projects and expanding my expertise, so fell free to reach out via Email or LinkedIn.  
