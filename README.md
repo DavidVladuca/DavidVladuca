@@ -26,10 +26,12 @@ I’m a Computer Science and Engineering student at **TU Delft**, passionate abo
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | | |
 
 ---
+
 ## 🤝 Let’s Connect!  
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/david-vladuca-ionut/)  
-- 📧 [Email](mailto:davidvladuca@gmail.com)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-vladuca-ionut/)  
+- [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:davidvladuca@gmail.com)  
+
 
 
 
