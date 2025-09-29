@@ -12,7 +12,7 @@ I’m a Computer Science and Engineering student at **TU Delft**, passionate abo
 
 ---
 
-## 💻 Skills  
+## 💻 Skills  (most of them)
 
 | Programming Languages | Frameworks & Tools | Software Testing |
 |------------------------|---------------------|------------------|
